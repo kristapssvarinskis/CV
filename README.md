@@ -16,3 +16,6 @@ if atzime == 10:
 else:
     print('Jūsu atzīme nav izcila')
 '''
+
+#Bilde
+[Bilde](https://unsplash.com/backgrounds/colors/gradient)
