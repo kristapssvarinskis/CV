@@ -19,7 +19,12 @@ else:
 
 #Bilde
 [Bilde](https://unsplash.com/backgrounds/colors/gradient)
-![LBilde](bilde.jbg)
+![LBilde](bilde.jpg)
 
+#tabula
+| Skaitļi | Summa |
+| --- | ----------- |
+| 1 + 2 | 3 |
+| 2 + 3 | 5 |
 
 
