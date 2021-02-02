@@ -34,5 +34,10 @@ else:
 
 #horizontala linija
 ------------------------------------------------------------------------
+#saraksts
+- Mašīnas - 5
+- Autobus - 7
+- Mootocikls - 4
+
 
 
