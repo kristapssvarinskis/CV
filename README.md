@@ -27,4 +27,9 @@ else:
 | 1 + 2 | 3 |
 | 2 + 3 | 5 |
 
+#saraksts (ar atzimem)
+1. Matemātika - 5
+2. Angļu val. - 9
+3. Latviešu val. - 6
+
 
