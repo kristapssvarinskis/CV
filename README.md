@@ -19,3 +19,7 @@ else:
 
 #Bilde
 [Bilde](https://unsplash.com/backgrounds/colors/gradient)
+![LBilde](bilde.jbg)
+
+
+
